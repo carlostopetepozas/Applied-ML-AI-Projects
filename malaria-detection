@@ -1,0 +1,4 @@
+# Malaria Detection
+
+Deep Learning Capstone Project
+This project developed a deep learning solution to classify red blood cell images as parasitized or uninfected to support automated malaria screening. The dataset was well balanced across both classes, and visual exploration showed that infection-related features were often subtle, localized, and related to staining intensity, color variation, texture, and small intracellular structures. These findings supported the use of convolutional neural networks for image-based classification.
